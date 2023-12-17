@@ -1,0 +1,17 @@
+.statusoffline-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.8);
+}
+.wrapper-statusoffline {
+  width: 10px;
+  height: 10px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

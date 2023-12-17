@@ -1,0 +1,18 @@
+.property-1saturation-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 5px;
+  transform: scale(6.5);
+}
+.wrapper-property-1saturation {
+  border-radius: var(--br-9xs);
+  width: 412px;
+  height: 4px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

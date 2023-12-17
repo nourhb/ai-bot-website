@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-l-semibold: "Plus Jakarta Sans";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-6xl-2: 25.2px;
+  --font-size-3xl-1: 22.1px;
+  --font-size-lg-9: 18.9px;
+  --font-size-12xl-6: 31.6px;
+  --body-l-semibold-size: 16px;
+  --body-s-semibold-size: 12px;
+  --body-m-semibold-size: 14px;
+  --heading-xs-bold-size: 20px;
+  --font-size-9xl-4: 28.4px;
+
+  /* Colors */
+  --noble-black-600: #1a1d21;
+  --noble-black-700: #131619;
+  --noble-black-800: #0d0f10;
+  --color-gray-100: rgba(26, 29, 33, 0.96);
+  --glass-stroke: rgba(255, 255, 255, 0.08);
+  --noble-black-500: #363a3d;
+  --noble-black-0: #fff;
+  --noble-black-400: #686b6e;
+  --noble-black-200: #cdcecf;
+  --noble-black-300: #9b9c9e;
+  --day-blue-300: #a6b0f2;
+  --stem-green-500: #b6f09c;
+  --noble-black-100: #e8e9e9;
+  --happy-orange-600: #e26f20;
+  --glass-fill: rgba(215, 237, 237, 0.16);
+  --red-power-600: #d0302f;
+  --color-royalblue: #4d62e5;
+
+  /* Gaps */
+  --gap-lg-9: 18.9px;
+  --gap-18xl-9: 37.9px;
+  --gap-6xl-2: 25.2px;
+  --gap-base-8: 15.8px;
+  --gap-smi-6: 12.6px;
+  --gap-6xs-3: 6.3px;
+  --gap-xs: 12px;
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-3xs: 10px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-31xl-5: 50.5px;
+  --gap-9xs-2: 3.2px;
+  --gap-3xs-5: 9.5px;
+  --gap-82xl: 101px;
+
+  /* Paddings */
+  --padding-lg-9: 18.9px;
+  --padding-18xl-9: 37.9px;
+  --padding-smi-6: 12.6px;
+  --padding-6xl-2: 25.2px;
+  --padding-3xl-1: 22.1px;
+  --padding-6xs-3: 6.3px;
+  --padding-5xs: 8px;
+  --padding-5xl: 24px;
+  --padding-xs: 12px;
+  --padding-base: 16px;
+  --padding-sm: 14px;
+  --padding-9xs: 4px;
+  --padding-12xl-6: 31.6px;
+
+  /* Border radiuses */
+  --br-18xl-9: 37.9px;
+  --br-12xl-6: 31.6px;
+  --br-lg-9: 18.9px;
+  --br-base-8: 15.8px;
+  --br-6xs-3: 6.3px;
+  --br-6xl-2: 25.2px;
+  --br-smi-6: 12.6px;
+  --br-8xs-7: 4.7px;
+  --br-9xs: 4px;
+  --br-xs: 12px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-5xs: 8px;
+  --br-10xs: 3px;
+  --br-69xl-4: 88.4px;
+
+  /* Effects */
+  --glass-effects: 16px 24px 64px -24px rgba(255, 255, 255, 0.08) inset,
+    0px 24px 24px -16px rgba(0, 0, 0, 0.12),
+    0px 8px 12px rgba(255, 255, 255, 0.08) inset;
+  --shadow-small: 0px 1px 2px -1px rgba(0, 0, 0, 0.05),
+    0px 1px 3px rgba(0, 0, 0, 0.05);
+}

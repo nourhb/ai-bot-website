@@ -1,0 +1,18 @@
+.statusdo-not-disturb {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(3.4);
+}
+.wrapper-statusdo-not-disturb {
+  border-radius: var(--br-3xs);
+  width: 10px;
+  height: 10px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
